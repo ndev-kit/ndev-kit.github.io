@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://ndev-kit.github.io/index.html</loc>
-         <lastmod>2025-08-02</lastmod>
+         <loc>https://ndev-kit.github.io/</loc>
+         <lastmod>2025-11-26</lastmod>
     </url>
     <url>
-         <loc>https://ndev-kit.github.io/BINA_poster.html</loc>
-         <lastmod>2025-08-02</lastmod>
+         <loc>https://ndev-kit.github.io/BINA_poster/</loc>
+         <lastmod>2025-11-26</lastmod>
     </url>
     <url>
-         <loc>https://ndev-kit.github.io/beginner_setup.html</loc>
-         <lastmod>2025-08-02</lastmod>
+         <loc>https://ndev-kit.github.io/beginner_setup/</loc>
+         <lastmod>2025-11-26</lastmod>
     </url>
     <url>
-         <loc>https://ndev-kit.github.io/installation.html</loc>
-         <lastmod>2025-08-02</lastmod>
+         <loc>https://ndev-kit.github.io/installation/</loc>
+         <lastmod>2025-11-26</lastmod>
     </url>
     <url>
-         <loc>https://ndev-kit.github.io/widget_further_info.html</loc>
-         <lastmod>2025-08-02</lastmod>
+         <loc>https://ndev-kit.github.io/widget_further_info/</loc>
+         <lastmod>2025-11-26</lastmod>
     </url>
     <url>
-         <loc>https://ndev-kit.github.io/examples/skimage_workflow.html</loc>
-         <lastmod>2025-08-02</lastmod>
+         <loc>https://ndev-kit.github.io/examples/skimage_workflow/</loc>
+         <lastmod>2025-11-26</lastmod>
     </url>
     <url>
-         <loc>https://ndev-kit.github.io/examples/measure/measure_widget.html</loc>
-         <lastmod>2025-08-02</lastmod>
+         <loc>https://ndev-kit.github.io/examples/measure/measure_widget/</loc>
+         <lastmod>2025-11-26</lastmod>
     </url>
     <url>
-         <loc>https://ndev-kit.github.io/examples/utilities/image_utilities.html</loc>
-         <lastmod>2025-08-02</lastmod>
+         <loc>https://ndev-kit.github.io/examples/utilities/image_utilities/</loc>
+         <lastmod>2025-11-26</lastmod>
     </url>
     <url>
-         <loc>https://ndev-kit.github.io/examples/workflow/workflow_napari-assistant.html</loc>
-         <lastmod>2025-08-02</lastmod>
+         <loc>https://ndev-kit.github.io/examples/workflow/workflow_napari-assistant/</loc>
+         <lastmod>2025-11-26</lastmod>
     </url>
     <url>
-         <loc>https://ndev-kit.github.io/examples/workflow/workflow_scripting.html</loc>
-         <lastmod>2025-08-02</lastmod>
+         <loc>https://ndev-kit.github.io/examples/workflow/workflow_scripting/</loc>
+         <lastmod>2025-11-26</lastmod>
     </url>
     <url>
-         <loc>https://ndev-kit.github.io/examples/workflow/workflow_widget.html</loc>
-         <lastmod>2025-08-02</lastmod>
+         <loc>https://ndev-kit.github.io/examples/workflow/workflow_widget/</loc>
+         <lastmod>2025-11-26</lastmod>
     </url>
     <url>
-         <loc>https://ndev-kit.github.io/tutorial/00_setup.html</loc>
-         <lastmod>2025-08-02</lastmod>
+         <loc>https://ndev-kit.github.io/tutorial/00_setup/</loc>
+         <lastmod>2025-11-26</lastmod>
     </url>
     <url>
-         <loc>https://ndev-kit.github.io/tutorial/01_example_pipeline.html</loc>
-         <lastmod>2025-08-02</lastmod>
+         <loc>https://ndev-kit.github.io/tutorial/01_example_pipeline/</loc>
+         <lastmod>2025-11-26</lastmod>
     </url>
     <url>
-         <loc>https://ndev-kit.github.io/tutorial/02_easy_ML.html</loc>
-         <lastmod>2025-08-02</lastmod>
+         <loc>https://ndev-kit.github.io/tutorial/02_easy_ML/</loc>
+         <lastmod>2025-11-26</lastmod>
     </url>
     <url>
-         <loc>https://ndev-kit.github.io/tutorial/03_build_pipeline.html</loc>
-         <lastmod>2025-08-02</lastmod>
+         <loc>https://ndev-kit.github.io/tutorial/03_build_pipeline/</loc>
+         <lastmod>2025-11-26</lastmod>
     </url>
     <url>
-         <loc>https://ndev-kit.github.io/tutorial/cellpainting/scripting_workflow.html</loc>
-         <lastmod>2025-08-02</lastmod>
+         <loc>https://ndev-kit.github.io/tutorial/cellpainting/scripting_workflow/</loc>
+         <lastmod>2025-11-26</lastmod>
     </url>
 </urlset>
