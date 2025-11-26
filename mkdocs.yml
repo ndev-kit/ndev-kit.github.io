@@ -1,8 +1,8 @@
 site_name: nDev Documentation
 site_url: https://ndev-kit.github.io/
 site_description: Documentation for nDev ecosystem tools and packages
-repo_name: ndev-kit/ndev-kit.github.io
-repo_url: https://github.com/ndev-kit/ndev-kit.github.io
+repo_name: ndev-kit/napari-ndev
+repo_url: https://github.com/ndev-kit/napari-ndev
 copyright: Copyright &copy; 2023-2025 Tim Monko & nDev Kit Contributors
 
 theme:
