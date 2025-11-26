@@ -48,3 +48,18 @@ dev = [
 "Documentation" = "https://github.com/ndev-kit/ndev-kit.github.io#README.md"
 "Source Code" = "https://github.com/ndev-kit/ndev-kit.github.io"
 "User Support" = "https://github.com/ndev-kit/ndev-kit.github.io/issues"
+
+[tool.pixi.workspace]
+channels = ["conda-forge"]
+platforms = ["win-64", "linux-64", "osx-64", "osx-arm64"]
+
+[tool.pixi.pypi-dependencies]
+docs = { path = ".", editable = true }
+
+[tool.pixi.environments]
+default = { solve-group = "default" }
+dev = { features = ["dev"], solve-group = "default" }
+
+[tool.pixi.tasks]
+serve = { cmd = "mkdocs serve" }
+build = { cmd = "mkdocs build" }
