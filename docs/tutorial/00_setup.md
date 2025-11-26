@@ -10,8 +10,7 @@ If you are familiar with python, then I would recommend creating a new environme
 
 ## CellPainting Images
 
-[**Download Images for Example Pipeline**](https://github.com/TimMonko/napari-ndev/raw/main/docs/tutorial/cellpainting.zip) Then, extract the files in the ZIP folder.
-
+[**Download Images for Example Pipeline**](https://github.com/ndev-kit/resources/raw/refs/heads/main/image_archives/cellpainting.zip) Then, extract the files in the ZIP folder.
 The images come from the [Broad Bioimage Benchmark Collection](https://bbbc.broadinstitute.org/BBBC022/). Investigate the link for the description of the images.
 
 Scale: 0.656um/pixel
@@ -28,7 +27,7 @@ Channels:
 
 ## PrimaryNeuron Images
 
-[**Download Images for Easy Machine Learning Tutorial**](https://github.com/TimMonko/napari-ndev/raw/main/docs/tutorial/primaryneurons.zip)
+[**Download Images for Easy Machine Learning Tutorial**](https://github.com/ndev-kit/resources/raw/refs/heads/main/image_archives/primaryneurons.zip)
 
 These images come from my own work at the University of Minnesota in the Thomas Bastian lab. The primary neurons are derived from embryonic mouse brains, and grown for a few days in a dish. The goal is to study morphology and iron homeostasis as the neurons develop over time in conditions of iron deficiency. The images available in the tutorial are extracted from multi-scene CZI files (each original file has over 100 scenes) using the `Image Utilities` widget. Metadata from the CZI files was correct, so the widget automatically passes this downstream without any user input.
 
@@ -46,7 +45,7 @@ Channels:
 
 ## NeuralProgenitor Images
 
-[**Download Images for Building a Pipeline Tutorial**](https://github.com/TimMonko/napari-ndev/raw/main/docs/tutorial/neuralprogenitors.zip)
+[**Download Images for Building a Pipeline Tutorial**](https://github.com/ndev-kit/resources/raw/refs/heads/main/image_archives/neuralprogenitors.zip)
 
 These images come from the Zhe Chen lab at the University of Minnesota. These come from a microscope that *very poorly* saves the images: the images are forced to be saved as RGB (dspite having only one channel in each image) and improper scaling metadata. The images available in this tutorial have already been concatenated and the metadata applied using the `Image Utilities`.
 
