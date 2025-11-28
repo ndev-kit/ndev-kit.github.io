@@ -131,7 +131,7 @@ The `pixi.toml` defines several environments:
 - `default` - Minimal installation with qtpy-backend
 - `all` - All optional dependencies
 - `extras` - Additional napari plugins only
-- `dev` - Development environment with testing tools (pytest, tox, ruff, pre-commit)
+- `dev` - Development environment with testing tools (pytest, ruff, pre-commit)
 
 ### Development with uv
 
@@ -147,11 +147,11 @@ uv venv -p 3.13
 # macOS/Linux:
 source .venv/bin/activate
 
-uv pip install -e . --dev
+uv pip install -e . --group dev
 ```
 
-Run tests with tox (via [tox-uv](https://github.com/tox-dev/tox-uv)):
+Run tests:
 
 ```bash
-tox -p auto
+uv run pytest -v
 ```
