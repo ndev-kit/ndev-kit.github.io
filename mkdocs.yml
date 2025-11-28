@@ -112,11 +112,7 @@ plugins:
   - mkdocstrings:
       handlers:
         python:
-          import:
-            - https://docs.python.org/3/objects.inv
-            - https://psygnal.readthedocs.io/en/latest/objects.inv
-            - https://pint.readthedocs.io/en/stable/objects.inv
-            - https://napari.org/stable/objects.inv
+          paths: [.]
           options:
             docstring_style: numpy # required
             heading_level: 2
